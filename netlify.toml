@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Handles SPA routing redirects so page refreshes don't return 404s
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

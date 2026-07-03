@@ -1,0 +1,6 @@
+{
+  "name": "Aadan Pradan",
+  "description": "An elegant, fast file-sharing application using QR codes and short PIN transfers, inspired by the Nepali 'आदान-प्रदान' concept.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
